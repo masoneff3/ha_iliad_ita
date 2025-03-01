@@ -1,0 +1,1 @@
+"""Init file for the Iliad (Italy) custom component for Home Assistant."""

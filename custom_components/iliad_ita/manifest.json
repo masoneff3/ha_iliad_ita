@@ -1,0 +1,12 @@
+{
+  "domain": "iliad_ita",
+  "name": "Iliad",
+  "version": "1.0",
+  "codeowners": ["@masoneff3"],
+  "documentation": "https://github.com/masoneff3/ha_iliad_ita",
+  "issue_tracker": "https://github.com/masoneff3/ha_iliad_ita/issues",
+  "dependencies": [],
+  "requirements": ["requests"],
+  "config_flow": false,
+  "iot_class": "cloud_polling"
+}
